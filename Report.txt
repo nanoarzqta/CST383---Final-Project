@@ -1,22 +1,22 @@
-Introduction 
+# Introduction 
 With the rising interest in electric vehicles we though it would be a good idea to look at the data of the most affordable electric vehicles currentyl on the market.
 
-Selection of data
+# Selection of data
 
 Title: Cheapest Electric Cars
 The dataset was found on the Kaggle site (https://www.kaggle.com/kkhandekar/cheapest-electric-cars). Its an Electric Vehicle database
 that was obtained by webscrapping from Quantum.Minds (Link: https://www.kaggle.com/kkhandekar.) It was created on August 16th, 2021.
 
-Mehods
+# Methods
 
 We used CSV file that was imported into Jupiter notebook. Seaborn, pandas, dataframes and a lot of other libraries was used to compute the data and make plots.
 Github API was used to pull up the csv into the notebook.
 
-Results
+# Results
 
 Based on the data, we found that the most expensive Electric Vehicle in the market is the Tesla Roadster, based on the mean price since the data that was provided contained Euro and British Pounds. We also determined the fastest charging EVs as well as the fastest EV based on Top Speed. Which where the Lucid Air Pure and the Tesla Roadster.
 The tests we attempted led us to reaching the goals we had set out to find. Also the visual aspects of the data helped us determine the outcome.
 
-Summary
+# Summary
 Based on the data, we found that the most expensive Electric Vehicle in the market is the Tesla Roadster, based on the mean price since the data that was provided contained Euro and British Pounds. We also determined the fastest charging EVs as well as the fastest EV based on Top Speed. Which where the Lucid Air Pure and the Tesla Roadster.
 The tests we attempted led us to reaching the goals we had set out to find. Also the visual aspects of the data helped us determine the outcome.
